@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\TrainingGrounds2.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{BC7FDA1A-5F17-42EF-85F0-3AEDDD234B9C}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TrainingGrounds2.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\TrainingGrounds2Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{5664FB78-BCF5-4051-B655-A174EBF2D478}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\TrainingGrounds2">
+			<UniqueIdentifier>{96704417-59EC-4797-9E00-E61AB6124126}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TrainingGrounds2\TrainingGrounds2.Build.cs">
+			<Filter>Source\TrainingGrounds2</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\TrainingGrounds2\TrainingGrounds2.cpp">
+			<Filter>Source\TrainingGrounds2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TrainingGrounds2\TrainingGrounds2.h">
+			<Filter>Source\TrainingGrounds2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TrainingGrounds2\TrainingGrounds2Character.cpp">
+			<Filter>Source\TrainingGrounds2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TrainingGrounds2\TrainingGrounds2Character.h">
+			<Filter>Source\TrainingGrounds2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TrainingGrounds2\TrainingGrounds2GameMode.cpp">
+			<Filter>Source\TrainingGrounds2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TrainingGrounds2\TrainingGrounds2GameMode.h">
+			<Filter>Source\TrainingGrounds2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TrainingGrounds2\TrainingGrounds2HUD.cpp">
+			<Filter>Source\TrainingGrounds2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TrainingGrounds2\TrainingGrounds2HUD.h">
+			<Filter>Source\TrainingGrounds2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TrainingGrounds2\TrainingGrounds2Projectile.cpp">
+			<Filter>Source\TrainingGrounds2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TrainingGrounds2\TrainingGrounds2Projectile.h">
+			<Filter>Source\TrainingGrounds2</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

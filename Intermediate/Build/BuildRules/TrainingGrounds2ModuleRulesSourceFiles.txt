@@ -1,0 +1,3 @@
+E:\LocalRepos\asdsd\TrainingGrounds2\Source\TrainingGrounds2\TrainingGrounds2.Build.cs
+E:\LocalRepos\asdsd\TrainingGrounds2\Source\TrainingGrounds2.Target.cs
+E:\LocalRepos\asdsd\TrainingGrounds2\Source\TrainingGrounds2Editor.Target.cs

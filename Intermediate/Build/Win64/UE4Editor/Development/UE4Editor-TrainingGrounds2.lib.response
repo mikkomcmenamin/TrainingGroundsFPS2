@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TrainingGrounds2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\LocalRepos\asdsd\TrainingGrounds2\Intermediate\Build\Win64\UE4Editor\Development\TrainingGrounds2\TrainingGrounds2.cpp.obj"
+"E:\LocalRepos\asdsd\TrainingGrounds2\Intermediate\Build\Win64\UE4Editor\Development\TrainingGrounds2\TrainingGrounds2Character.cpp.obj"
+"E:\LocalRepos\asdsd\TrainingGrounds2\Intermediate\Build\Win64\UE4Editor\Development\TrainingGrounds2\TrainingGrounds2GameMode.cpp.obj"
+"E:\LocalRepos\asdsd\TrainingGrounds2\Intermediate\Build\Win64\UE4Editor\Development\TrainingGrounds2\TrainingGrounds2HUD.cpp.obj"
+"E:\LocalRepos\asdsd\TrainingGrounds2\Intermediate\Build\Win64\UE4Editor\Development\TrainingGrounds2\TrainingGrounds2Projectile.cpp.obj"
+"E:\LocalRepos\asdsd\TrainingGrounds2\Intermediate\Build\Win64\UE4Editor\Development\TrainingGrounds2\TrainingGrounds2.init.gen.cpp.obj"
+"E:\LocalRepos\asdsd\TrainingGrounds2\Intermediate\Build\Win64\UE4Editor\Development\TrainingGrounds2\TrainingGrounds2Character.gen.cpp.obj"
+"E:\LocalRepos\asdsd\TrainingGrounds2\Intermediate\Build\Win64\UE4Editor\Development\TrainingGrounds2\TrainingGrounds2GameMode.gen.cpp.obj"
+"E:\LocalRepos\asdsd\TrainingGrounds2\Intermediate\Build\Win64\UE4Editor\Development\TrainingGrounds2\TrainingGrounds2HUD.gen.cpp.obj"
+"E:\LocalRepos\asdsd\TrainingGrounds2\Intermediate\Build\Win64\UE4Editor\Development\TrainingGrounds2\TrainingGrounds2Projectile.gen.cpp.obj"
+"C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\TrainingGrounds2\PCLaunch.rc.res"
+"C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\LocalRepos\asdsd\TrainingGrounds2\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TrainingGrounds2.lib"
